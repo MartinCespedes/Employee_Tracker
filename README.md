@@ -208,11 +208,11 @@ Streamline HR processes and reduce paperwork with a centralized employee and dep
 
 ## Application Screenshot Preview
 
-![SQL_Employee_Tracker](./Develop/images/SQL_Employee_Tracker_IMG1.png)
+![SQL_Employee_Tracker](./SQL_Employee_Tracker_IMG1.png)
 
 ## Live Application Preview
 
-![SQL_Employee_Tracker](./Develop/images/SQL_Employee_Tracker_IMG2.png)
+![SQL_Employee_Tracker](./SQL_Employee_Tracker_IMG2.png)
 
 ## License
 
