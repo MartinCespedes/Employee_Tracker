@@ -1,9 +1,5 @@
 ## Employee Tracker
 
-- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-- ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
 ## Contents
 
 [Description](#description)
@@ -36,7 +32,7 @@ I WANT to be able to view and manage the departments, roles, and employees in my
 SO THAT I can organize and plan my business
 ```
 
-## :white_check_mark:Acceptance Criteria
+## Acceptance Criteria
 
 ```md
 GIVEN a command-line application that accepts user input
