@@ -1,0 +1,26 @@
+{
+  "name": "employee_tracker",
+  "version": "1.0.0",
+  "description": "SQL Employee Tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test/test.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinCespedes/Employee_Tracker.git"
+  },
+  "author": "Martin Cespedes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MartinCespedes/Employee_Tracker/issues"
+  },
+  "homepage": "https://github.com/MartinCespedes/Employee_Tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.4",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.2.0"
+  }
+}
